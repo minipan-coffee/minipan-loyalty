@@ -1,0 +1,1 @@
+# minipan-loyalty
